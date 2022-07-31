@@ -1,23 +1,8 @@
-                                                      ## Привет, меня зовут Владислав 👋
+# Hey! I'm @vladislav875 (Vladislav Nazukin) 👋
+I'm a back-end developer from Russia.
 
-<!-- Я являюсь Back-end разработчиком и данный момент активно работаю на фриланс-биржах и получаю опыт.
+At the moment I am actively working on freelance exchanges and getting invaluable experience.
 
-А так же в данный момент Я ищу возможность долгосрочного сотрудничества с различными проектами и активно изучаю углубленный ***🌍 English language***
-
-
- занимаюсь разработкой скриптов на `Python`, но так же , но я так же работаю и с другими языками программирования такие как Node JS, -->
-
-<!--
-**Vladislav875/Vladislav875** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- #### [My Telegram](https://t.me/vladislav_osipov89)
+- #### [Freelance.ru Profile](https://freelance.ru/vladislavnazukin)
+- #### [My portfolio in GitHub.com](https://github.com/Vladislav875/portfolio)
