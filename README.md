@@ -5,4 +5,4 @@ I'm a back-end developer from Russia.
 
 [06.2022 - xx.xx.xxxx] At the moment I am working in project team [@MajesticRolePlay](https://github.com/MajesticRolePlay) Back-end developer
 
-- #### [My Telegram](https://t.me/vladislav_osipov89)
+- #### [My Telegram](https://t.me/akeladev)
